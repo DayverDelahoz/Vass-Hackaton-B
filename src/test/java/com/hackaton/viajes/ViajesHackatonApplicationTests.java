@@ -1,0 +1,13 @@
+package com.hackaton.viajes;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ViajesHackatonApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
